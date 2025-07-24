@@ -15,6 +15,7 @@ A simple, local-first meeting summariser that uses **[DeepSeek](https://github.c
 - 🗂️ Accepts raw meeting notes as plain text
 - 📄 Outputs well-structured summaries (Subject, Topics, Key Points, etc.)
 - 🧠 Prompt engineered for clarity and completeness
+- Possible to view the think process in the logs: example log included
 
 ---
 
