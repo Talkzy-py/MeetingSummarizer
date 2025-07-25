@@ -39,7 +39,8 @@ python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # 3. Install dependencies
-pip install ollama datetime
+pip install ollama datetime whisper # only install whisper if you are willing to test the audio_transcription
 
 # 4. Run the app
-python main.py
+python main.py # meeting summarizer with text
+python audio_transcription.py # testing of the audio transcription
